@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<meta charset="utf-8"/> 
+	<style>
+		body {
+			background-image: url(mosaico.jpg);
+			background-size: 110%;
+		}
+	</style>
+
+	<link rel="shortcut icon" type="image/x-icon" href="cerebro.jpg">
+<TITLE> RESILENCIA</TITLE>
+<link rel="stylesheet" href="resiestilo.css">
+</HEAD> 
+<BODY>
+<blockquote><h1 align="center">RESILIENCIA</h1></blockquote>
+<blockquote><h4 align="center">Autora:Laura Estefania Perez Rodriguez 403</h4></blockquote>
+
+
+                                             <!-lista no ordenada-> <!-hipervinculos en la misma pagina->
+
+     <blockquote><h2 align="left">CONTENIDO DE LA PAGINA :</h2></blockquote>
+     <ul>  
+     	<li> <a href="#DEFINICION Y ORIGEN">Definicion y origen.</a></li>
+     	<li><a href="#COMPONENTES">Componentes</a> </li>
+     	<li> <a href="#EN LA PSICOLOGIA">En la psicologia.</a></li>
+        <li><a href="#FUENTES DE LA RESILIENCIA SEGUN EDITH GROTBERG">Fuentes de la resiliencia segun Edith Grotberg</a></li>
+     	<li><a href="#LIBROS REFERENTES AL TEMA">Libros recomendados.</a></li>
+     	<li><a href="#FRASES QUE INSPIRAN">Frases que inspiran.</a></li>
+        <li><a href="#RESILENCIA EN LAS ORGANIZACIONES TOP 6 ">Resiliencia en las organizaciones top 6 </a></li>
+        <li><a href="#¿COMO SER MAS RESILIENTE?">¿Como ser mas resiliente?</a>
+        <li><a href="#PANDEMIA">Resiliencia en pandemia.</a></li>
+        <li><a href="#NUESTRO CURSO">Nuestro curso.</a></li>
+        </li>
+         
+     </ul> </font>
+
+<p>Para inspirarte y tener una experiencia mas agradable en nuestra pagina te dejamos una cancion:</p>                                         
+    <audio autoplay controls loop >
+        <source src="\Users\JanDav\Documents\MUSICA Y VIDEOS/X Ambassadors - Renegades (Lyric Video).mp3" type="audio/mp3">
+    </audio>
+
+     <blockquote><h2 id="DEFINICION Y ORIGEN"><p align="right">DEFINICION Y ORIGEN:</h2><hr></p></blockquote>  
+    <blockquote><font size="4" face="Arial Narrow"> <p align="right">
+    	La resiliencia es el proceso de una o varias personas  de adaptarse bien a la 
+    	adversidad, a un trauma, tragedia, amenaza, o fuentes de tensión significativas, como problemas familiares o de relaciones 
+    	personales, problemas serios de salud o situaciones estresantes del trabajo o financieras, es si es recuperarse freste a la adversidad para seguir proyectando el futuro.  
+    	El término proviene del latín resilio, es decir, volver atrás, dar un salto o rebotar de una experiencia dificil, como les ocurre a las gomas elásticas cuando se estiran y regresan a su estado inicial. El concepto se comenzó a emplear en la física y fue Michael Rutter quien lo acuñó en 1972 para las ciencias sociales.
+    	El primer autor que empleó este término fue John Bowlby, el creador de la teoría del apego, pero fue Boris Cyrulnik, psiquiatra, neurólogo, psicoanalista y etólogo,  el que dio a conocer el concepto de resiliencia en el campo de la psicología en su bestseller “Los patitos feos”.
+        </blockquote> </p></font> 
+                                                            <!-imagen->
+     <center> 
+     <img src="pregunta.jpg" style="width: 400px; height: 200px; border-radius: 30%">
+     
+     <blockquote><h2 id="COMPONENTES"><p align="left">COMPONENTES:</h2><hr></p></blockquote>  
+    <blockquote><font size="4" face="Arial Narrow"> <p align="left"> Contiene dos  componentes:</p></font>  </blockquote> 
+                                                            <!-lista ordenada->
+    <ol type="I"><font size="4" face="Arial Narrow" align="left"> 
+		<li>Resistencia frente a las adversidades :</li>
+		<blockquote><font size="4" face="Arial Narrow"> <p align="center"> Que se enfoca a la capacidad para mantenerse entero cuando se es sometido a grandes exigencias y presiones en la vida de la persona. </blockquote> </p></font> 
+		<li>Capacidad para sortear las dificultades :</li>
+		<blockquote><font size="4" face="Arial Narrow"> <p align="center"> Que es aprender de las derrotas y reconstituirse creativamente, transformando los aspectos negativos en nuevas oportunidades y ventajas.   </blockquote> </p></font> 
+	  </ol></font>
+
+    <blockquote><font size="4" face="Arial Narrow"> <p align="right"> En cual quier de los dos componentes hacen relevancia al significado de la palabra, ademas son las caracteristicas que una persona resiliente debe o tiene una persona en general.
+    Pero las cualidades especificas necesarias para obtener esto son: </blockquote> </p></font> 
+    <ol type="1"><font size="4" face="Arial Narrow" align="left"> 
+		<li>Autoconocimiento y autoestima.</li>
+		<li>Empatia.</li>
+		<li>Autonomia.</li>
+		<li>Afrontamiento positivo de la adversidad.</li>
+		<li>Conciencia de presente y optimismo.</li>
+		<li>Flexibilidad con Perseverancia.</li>
+		<li>Sociabilidad.</li>
+		<li>Tolerancia a la frustración y a la incertidumbre.</li>
+		<li>Son conscientes de sus potencialidades y limitaciones.</li>
+		<li>Creativas</li>
+		<li>No intentan controlar las situaciones, sino sus emociones</li>
+	  </ol> </font>                                  
+   <font size="4" face="Arial Narrow"><p align="left">Para conocer mas del tema puedes consultar el siguiente video:</p></font>
+                                                               <!-enlace a pagina externa->
+    <font size="4" face="Arial Narrow"><p align="center">¿Qué nos hace resilientes? Con Feggy Ostrosky | Martha Debayle</p></font>
+    <a href="https://www.youtube.com/embed/fz918lSo7fA"> Dale click para ver el video</a>
+
+                                                                   <!-tabla 3->
+     <blockquote><h2 id="¿COMO SER MAS RESILIENTE?"><p align="left">¿COMO SER MAS RESILIENTE?</h2><hr></p></blockquote> 
+
+    <table align="center" background="l.jpg" style="width: 600px; height: 600px">
+ 
+            <th colspan ="4"align="center"> ¿COMO SER MAS RESILIENTE? <br>[CONSEJOS PARA IMPULSAR TU RESILIENCIA]</th>
+<tr>
+            <th>
+     <img src="practica.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th>
+     <th>PRACTICA EL OPTIMISMO <br> Una etapa muy dificil puede ser una oportunidad.</th>
+     <th><img src="fracaso.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th><th>NO PERSONALICES LOS FRACASOS <br>Evita culparte:en toda situacion adversa hay multiples factores.</th>
+        </tr>
+         <tr>
+            <th>
+     <img src="exito.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th>
+     <th>RECUERDA TUS EXITOS <br>         Ya superaste circunstancias dificiles y puedes hacerlo de nuevo.  </th>
+     <th><img src="apoyo.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th><th>APOYA A LOS DEMAS <br>Ayuda a otros aumenta nuestra propia fuerza y empatia.</th>
+        </tr>
+<tr>
+            <th>
+     <img src="re.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th>
+     <th>REESCRIBE TU VIDA <br> La forma en que vemos cambia la forma en que vemos el mundo.</th>
+     <th><img src="medi.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th><th>GESTIONA EL ESTRES <br>   No va a desaparecer:tomalo como un estimulo y date descansos.   </th>
+        </tr> 
+        <tr>
+            <th>
+     <img src="ayuda.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th>
+     <th>APOYATE DE LOS DEMAS<br> Una red solida de amigos y familiares es vital en momentos de crisis.</th>
+     <th><img src="confort.jpg" style="width: 150px; height: 70px; border-radius: 30%"> </th><th>SAL DE TU ZONA DE CONFORT <br>Ponte en situaciones que te supongan un reto y seras mas fuerte.</th>
+        </tr>
+    </table>
+    <p align="left"> Fuente:The New York Times.</p>
+
+
+
+     <blockquote><h2 id="EN LA PSICOLOGIA"><p align="right">EN LA PSICOLOGIA:</h2><hr></p></blockquote>  
+    <font size="4" face="Arial Narrow"> <p align="right">El análisis de la psicología respecto a la resiliencia ha cambiado con los años. Durante mucho tiempo, este tipo de respuestas eran consideradas como inusuales o patológicas. Sin embargo, los psicólogos actuales reconocen que se trata de una respuesta común como forma de ajuste frente a la adversidad.
+    La psicología positiva considera a los problemas como desafíos, que son enfrentados y superados por las personas gracias a la resiliencia. 
+    Existen distintas circunstancias que favorecerán o no el desarrollo de la resiliencia en cada hombre, como la educación, las relaciones familiares y el contexto social.
+    Ademas se a comprobado que aparte de esas circunstancias tambien los factores biologicos ya que se pueden hacer mediciones en tu cerebro y en la genetica de la persona o personas para tener el conocimiento de quien es y quien no resiliente, ya que es una parte fundamental en la familia, ya sea por la convivencia o como dijo anteriormente los genes que los rigen.
+Jack Block relacionó el constructo de la resiliencia (capacidad de adaptación a un agente perturbador o situación adversa) con la personalidad (capacidad única e individual de pensar, actuar y sentir). Block definió 3 tipos de personalidad según la capacidad resiliente que tuvieran:
+        <ol type="1"><font size="4" face="Arial Narrow" align="left"> 
+		<li>Yo resiliente:</li>
+		<blockquote><font size="4" face="Arial Narrow"> <p align="center"> Son personas que tienen facilidad de adaptación a las situaciones de estrés.Se caracterizan por: elevada confianza en su capacidad de adaptación, mucha atención, cooperadoras, independientes y buen autocontrol emocional. </blockquote> </p></font> 
+		<li>Yo sobrecontrolado:</li>
+		<blockquote><font size="4" face="Arial Narrow"> <p align="center"> Estas personas son mas tímidas, calladas, tienen mayores niveles de ansiedad y muestran una mayor dependencia de los demás. También son evitadoras de conflicto.
+		</blockquote> </p></font> 
+		<li>Yo subcontrolado:</li>
+		<blockquote><font size="4" face="Arial Narrow"> <p align="center">Estas personas son mas tímidas, calladas, tienen mayores niveles de ansiedad y muestran una mayor dependencia de los demás. También son evitadoras de conflicto. </blockquote> </p></font> 
+	  </ol> </font>  
+<!-imagen->
+     <center> 
+     <img src="cerebro.jpg" style="width: 400px; height: 200px; border-radius: 30%"> 
+     <img src="grupo.jpg" style="width: 400px; height: 200px; border-radius: 30%">
+
+                                                               <!-tabla 1->
+   
+
+    <blockquote><h2 id="FUENTES DE LA RESILIENCIA SEGUN EDITH GROTBERG"><p align="left">FUENTES DE LA RESILIENCIA SEGUN EDITH GROTBERG:</h2><hr></p></blockquote> 
+    <table align="center">
+             <style>
+tr,th{border-style: dotted;}
+ tr,th{border:2px solid black;}
+</style>
+
+  <tr>
+            <th> <font color="#D90A00" size="9">FUENTES DE LA RESILIENCIA SEGUN EDITH GROTBERG</th>  <th><center>
+     <img src="marca.jpg" style="width: 700px; height: 200px">  </th>
+    </tr>
+       <tr>
+       <th> Yo soy... <center>
+     <img src="hombre.png" style="width: 200px; height: 100px; border-radius: 30%"> 
+     <img src="mujer1.jpg" style="width: 200px; height: 100px; border-radius: 30%"></center> (fortaleza interna)</th>  <th> ...alguien que respeta e inspira respeto, que es responsable de sus actos, que actua con proactividad,autonomia,solidaridad,creatividad y empatia. </th> 
+        </tr>
+  
+        
+        <tr>
+            <th> Yo tengo... <center>
+     <img src="manos.jpg" style="width: 200px; height: 100px; border-radius: 30%"> </center>(Soporte social) </th>  <th> ...gente que me aprecia,amigos que me apoyan en todo el momento,buenos modelos a seguir, espacios donde puedo dar lo mejor de mi,etc.  </th> 
+        </tr>
+
+        <tr>
+            <th>Yo puedo... <center>
+     <img src="like.jpg" style="width: 200px; height: 100px; border-radius: 30%"> </center> (Habilidades)    </th> <th> ...controlar mis impulsos,tener buen humor,comunicarme adecuadamente,resolver problemas y lograr mis objetivos a pesar de las dificultades.</th> 
+        </tr>
+    </table> 
+
+<blockquote><h2 id="TUS PALABRAS CAMBIAN TU CEREBRO"><p align="right">TUS PALABRAS CAMBIAN TU CEREBRO:</h2><hr></p></blockquote>  
+         <center>                                              
+    <video  controls width="640"; height="480" >
+    <source src="C:\Users\JanDav\Downloads\Tus palabras cambian tu cerebro _ La neurociencia de las afirmaciones positivas.mp4" type="video/ogg"  >
+    
+    </video>
+</center>                                             
+
+
+    <blockquote><h2 id="LIBROS REFERENTES AL TEMA"><p align="left">LIBROS QUE TE RECOMENDAMOS QUE LEAS:</h2><hr></p></blockquote>  
+    <blockquote><font size="4" face="Arial Narrow"> <p align="left"> Para nuestros lectores les mostramos algunos libros que son:</p></font>  </blockquote> 
+
+     <ul type="square"><font size="4" face="Arial Narrow" align="left">  
+        <li> Los patitos feos  -  Boris Cyrulnik </li>
+        <li> Resiliencia y adaptación: La familia y la escuela como tutores de resiliencia  -  Boris Cyrulnik</li>
+        <li> Resiliencia o la adversidad como oportunidad  -  Rosario Linares</li>
+        <li> Resiliencia emocional  -  Geetu Bharwaney  </li>
+     </ul> </font>
+     <center> 
+     <img src="patitos.jpg" style="width: 200px; height: 300px"> 
+     <img src="adaptacion.jpg" style="width: 200px; height: 300px">
+     <img src="2.jpg" style="width: 200px; height: 300px">
+     <img src="resilencia_emocional.jpg" style="width: 200px; height: 300px">
+
+     <blockquote><h2 id="FRASES QUE INSPIRAN"><p align="right">FRASES QUE INSPIRAN:</h2><hr></p></blockquote>
+     <blockquote><font size="4" face="Arial Narrow"> <p align="center">Estas frases te pueden ayudar a inpirar a superarte o para que te des una nocion mas sobre el tema: </blockquote> </p></font> 
+     <center> 
+     <img src="frase1.jpg" style="width: 200px; height: 300px"> 
+     <img src="frase2.jpg" style="width: 200px; height: 300px">
+     <img src="frase3.jpg" style="width: 200px; height: 300px">
+
+                                                        
+                                                                 <!-tabla 2->
+   
+
+    <blockquote><h2 id="RESILENCIA EN LAS ORGANIZACIONES TOP 6"><p align="left">RESILENCIA EN LAS ORGANIZACIONES TOP 6:</h2><hr></p></blockquote> 
+    <table align="center">
+             <style>
+td,th{border-style: dotted;}
+
+
+</style>
+
+
+  <tr>
+            <th> <font color="#D90A00" size="8">RESILIENCIA EN LAS ORGANIZACIONES TOP 6</th>  <th><center>
+     <img src="marca.jpg" style="width: 700px; height: 200px">  </th>
+    </tr>
+        
+
+
+        <th> Por paises<center>
+     <img src="mundo.jpg" style="width: 200px; height: 100px; border-radius: 30%"> </center> </th>  <th> Por industrias <center>
+     <img src="industria.jpg" style="width: 200px; height: 100px; border-radius: 30%"> </center> </th> 
+        </tr>
+        <tr>
+            <th>
+                <nav>
+<ol>
+    <li>Australia</li>
+    <li>China</li>
+    <li>India</li>
+    <li>Japon</li>
+    <li>Reino Unido</li>
+    <li>Estados Unidos</li>
+    </ol>
+    </th>
+     <th> 
+ <nav>
+<ol><center>
+    <li >Aeroespacial</li>
+    <li>Automovil</li>
+    <li>Entorno construido</li>
+    <li>Energia</li>
+    <li>Economia</li>
+    <li>Alimentacion</li>
+    </center>
+        </th> 
+        </tr>
+    </table>
+                           
+<p align="right">Fuente: Indice de Resiliencia Organizacional (BSI),2019</p>
+                      
+                      <!-tabla3->
+                                        
+<blockquote><h2 id="PANDEMIA"><p align="right">EN PANDEMIA:</h2><hr></p></blockquote> 
+
+    <table align="center">
+        <colgroup>
+            <col span="1" style="background-color:#85C1E9 ">
+            <col span="1" style="background-color:#AF7AC5 ">
+            <col span="1" style="background-color:#85C1E9 ">
+            <col span="1" style="background-color:#AF7AC5 ">
+
+                    </colgroup>
+        <style>
+
+table{border-collapse:collapse;}
+
+table, td, th{border:1px solid black;}
+
+</style>
+        <tr>
+            <th> La auto observación, el autoconocimiento y dedicarnos tiempo  </th>  <th> Equilibrio emocional  </th>  <th> Aceptar la realidad</th><th> Cuidar nuestra salud (física y emocional) </th>
+        </tr>
+        
+        <tr>
+            <th> Detenernos primero a escucharnos, identificar lo que sentimos, lo que pensamos, lo que escuchamos, a reconocernos mejor e identificar lo que estamos viviendo y lo que sucede a nuestro alrededor. Conocer cuáles son las cualidades que me permiten adaptarme de manera positiva o no al cambio. Identificar cómo me siento, la autorreflexión. </th>  <th> Identificar las emociones, aceptarlas y racionalizarlas ayudará a muchos a convivir con las personas y a tomar incluso mejores decisiones.</th> <th> Aceptar lo maravilloso e injusto de la vida y porque tiene esa dualidad. Aceptar las cosas como son, nos planta en una situación más positiva que ir contra la corriente, en la vida suceden diversos acontecimientos unos agradables y otros no,evitar la victimización. </th> <th> Es importante incorporar el ejercicio como una rutina y consumir una mejor alimentación, así como asumir que como persona eres una prioridad. Si fomentamos la salud física, la emocional en conjunto va a mejorar.  </th>
+        </tr>
+        
+    </table>
+   
+
+                                                   
+
+                                                         <!- curso->
+<blockquote><h2 id="NUESTRO CURSO"><p align="left">NUESTRO CURSO:</h2><hr></p></blockquote>  
+    <blockquote><font size="4" face="Arial Narrow"> <p align="left"> Puede que te llegue a interesar nuestro curso: Te enseñaremos como puede explotar tu potencial para ayudarte emocionalmente y puedas conseguir mas de tus metas y muchas mas cosas!!</p></font>  </blockquote> 
+ <a href="\Users\JanDav\Documents\ALMA\NUESTRO CURSO DE RESILENCIA.html"> Dale click para incribirte</a>
+</SCRIPT>
+</BODY>
+</HTML>
